@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="./assets/readme-cover.svg" alt="Hi there - Master of Computer Science student at the University of Sydney." width="100%" />
+  <img src="./assets/readme-cover.svg" alt="Hi there!" width="100%" />
 </p>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Master%20of%20Computer%20Science%20student;University%20of%20Sydney;Always%20learning%20and%20building&font=Fira%20Code&center=true&width=560&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-  </a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=A0C4FF&background=FFB97E00&multiline=true&width=435&lines=%F0%9F%92%BB+Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=BDB2FF&background=FFB97E00&multiline=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+USYD+CS+Master's+Student)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FFC6FF&background=FFB97E00&multiline=true&width=435&lines=%F0%9F%A7%A0+AI-Assisted+Dev+%26+Automation)
